@@ -3,7 +3,7 @@ basedir = ./logs
 datadir = ./data/nerf_llff_data/llfftest
 dataset_type = llff
 
-factor = 1
+factor = 8
 llffhold = 8
 
 N_rand = 1024
